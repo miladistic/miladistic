@@ -1,4 +1,4 @@
-![Milad Ghane, Data Science, Machine Learning](https://live.staticflickr.com/65535/52801981611_0207734f15_k.jpg)
+![Milad Ghane, Data Science, Machine Learning](https://live.staticflickr.com/65535/52801443427_17b4a31279_k.jpg)
 
 ### Hi there 👋
 
