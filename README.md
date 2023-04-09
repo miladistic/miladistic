@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ![Milad Ghane, Data Science, Machine Learning](https://live.staticflickr.com/65535/52801443427_17b4a31279_k.jpg)
+
+### Hi there 👋
 
 Welcome to my GitHub page! My name is Milad, and I am excited to embark on a new journey as a **data scientist**. While my background is in *digital marketing*, I have recently acquired skills in **Python** programming and am currently in the process of learning **data science** and **machine learning**.
 
