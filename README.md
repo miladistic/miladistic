@@ -1,11 +1,8 @@
-![Milad Ghane, Data Science, Machine Learning](https://live.staticflickr.com/65535/52801443427_17b4a31279_k.jpg)
+# 💫 About Me:
+I am a **data scientist** with a passion for analyzing complex data sets and turning insights into actionable business strategies. With a strong foundation in data analysis and a growing expertise in machine learning, I thrive on tackling new challenges and finding innovative solutions. My approach is always collaborative, working closely with teams to understand their unique needs and drive impactful outcomes. I am constantly expanding my skill set and seeking out new opportunities to apply my knowledge in real-world settings. Let's connect and explore how I can help your business unlock the power of data.
 
-Hello and welcome! I am a **data scientist** with a unique blend of expertise in **marketing** and **data science**, and a passion for **machine learning**. My primary focus is on delivering exceptional **business and data analysis**, using cutting-edge technologies and techniques to gain insights that drive success.
+![](https://github-readme-stats.vercel.app/api?username=miladistic&theme=vue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=miladistic&theme=vue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miladistic&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-As a **data scientist**, I have gained experience working on complex projects that require creative problem-solving and strategic thinking. I specialize in using data to drive business decisions, making me well-suited for roles that require a blend of technical and business acumen.
-
-One of my strengths is my ability to form and lead **professional teams**. I have collaborated with diverse groups of professionals, including data analysts, business strategists, and developers, to deliver high-quality results on challenging projects. I believe that strong teamwork is essential to success, and I take pride in building and leading teams that excel.
-
-My expertise in **data science** and **machine learning** allows me to provide unparalleled insights and analysis, leveraging the latest techniques and technologies to drive growth and success. I am committed to staying up-to-date with the latest developments in my field, ensuring that my work is always cutting-edge and relevant.
-
-If you are looking for a skilled and experienced data scientist to lead or join your team, I would be thrilled to hear from you. Together, we can harness the power of data to drive business success and achieve your goals.
+[![](https://visitcount.itsvg.in/api?id=miladistic&icon=1&color=0)](https://visitcount.itsvg.in)
