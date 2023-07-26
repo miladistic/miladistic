@@ -1,8 +1,6 @@
 # 💫 About Me:
-I am a **data scientist** with a passion for analyzing complex data sets and turning insights into actionable business strategies. With a strong foundation in data analysis and a growing expertise in machine learning, I thrive on tackling new challenges and finding innovative solutions. My approach is always collaborative, working closely with teams to understand their unique needs and drive impactful outcomes. I am constantly expanding my skill set and seeking out new opportunities to apply my knowledge in real-world settings. Let's connect and explore how I can help your business unlock the power of data.
+Hi, I'm Milad, a **data scientist** with a marketing background. My passion is utilizing data-driven insights to drive business growth. With vast experience in statistical analysis, data modeling, and visualization techniques, I'm now learning **machine learning** algorithms to expand my skill set. I'm motivated by uncovering trends that empower informed decisions and am eager to apply my expertise to challenges presented by real-world data. I promise to contribute to the team dynamically while utilizing my marketing background and data science knowledge at an optimum level.
 
-![](https://github-readme-stats.vercel.app/api?username=miladistic&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=miladistic&theme=vue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miladistic&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://raw.githubusercontent.com/miladistic/miladistic/output/snake.svg" alt="Snake animation" />
 
 [![](https://visitcount.itsvg.in/api?id=miladistic&icon=1&color=0)](https://visitcount.itsvg.in)
